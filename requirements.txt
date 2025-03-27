@@ -1,0 +1,11 @@
+Jinja2
+MarkupSafe
+packaging
+pipdeptree
+Flask
+matplotlib
+pandas
+scikit_learn
+Jinja2
+setuptools
+numpy
