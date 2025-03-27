@@ -9,3 +9,4 @@ scikit_learn
 Jinja2
 setuptools
 numpy
+gunicorn
